@@ -1,0 +1,2 @@
+// MY FIRST GIT PROJECT
+console.log("HELLO WORLD");
